@@ -214,15 +214,16 @@
 .hero-copy .hero-specialisation{
   margin:10px 0 0;
   color:var(--accent);
-  font-size:clamp(20px,2vw,28px);
+  font-size:clamp(26px,2.3vw,32px);
   line-height:1.15;
   font-weight:650;
   font-style:italic;
   letter-spacing:-.035em;
 }
+
 @media(max-width:650px){
   .hero-copy .hero-specialisation{
-    font-size:clamp(18px,5vw,24px);
+    font-size:clamp(22px,5.5vw,27px);
   }
 }
 
