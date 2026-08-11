@@ -214,7 +214,7 @@
 .hero-copy .hero-specialisation{
   margin:10px 0 0;
   color:var(--accent);
-  font-size:clamp(26px,2.3vw,32px);
+  font-size:clamp(26px,2.5vw,34px);
   line-height:1.15;
   font-weight:650;
   font-style:italic;
