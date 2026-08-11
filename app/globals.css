@@ -214,14 +214,16 @@
 .hero-copy .hero-specialisation{
   margin:10px 0 0;
   color:var(--accent);
-  font-size:clamp(24px,3.25vw,42px);
+  font-size:clamp(18px,2vw,28px);
   line-height:1.15;
   font-weight:650;
   font-style:italic;
   letter-spacing:-.035em;
 }
 @media(max-width:650px){
-  .hero-copy .hero-specialisation{font-size:clamp(24px,7.5vw,34px)}
+  .hero-copy .hero-specialisation{
+    font-size:clamp(17px,5vw,24px);
+  }
 }
 
 /* Project card typography: keep descriptions and result summaries visually consistent. */
