@@ -12,7 +12,7 @@ export const skills=[
     items:["RAG","LangChain","Hugging Face","Embeddings","Vector Databases","DistilBERT","Llama"]
   },
   {
-    title:"AI Engineering",
+    title:"ML Delivery & Tools",
     items:["PyTorch","Streamlit","FastAPI","Git & GitHub","REST APIs","Cloud Deployment"]
   }
 ];
